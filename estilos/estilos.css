@@ -7,3 +7,15 @@ body
     font-weight: 900;
     background-color: darkgray;
 }
+#cabecera
+{
+    padding: 0 0 0 1em;
+    font-weight: 100;
+    font-size:xx-large;
+    color: darkblue;
+}
+
+#container
+{
+    box-shadow: inset;
+}
