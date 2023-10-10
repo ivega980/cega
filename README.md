@@ -1,3 +1,4 @@
 # cega
 Repositorio Cega
-aaaaaaaaaa
+09-oct-2023
+Curso Platzi GIT / GITHUB
